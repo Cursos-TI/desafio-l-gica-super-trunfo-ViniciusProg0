@@ -86,16 +86,16 @@ int resultado1, resultado2, resultado3, resultado4, resultado5, resultado6, resu
  // Imprimindo os resultados na tela
 // Resultados das comparaçoes entre as duas cartas com if e else 
   if(estado > estado2){
-    printf("Carta 1 (São Paulo) venceu!\n");
+    printf("Carta 1 (São Paulo) venceu com maior ESTADO\n");
   }else {
-    printf("Carta 2 (Rio de janeiro) venceu!\n");
+    printf("Carta 2 (Rio de janeiro) venceu com maior ESTADO\n");
   }
     
 
   if(populacao > populacao2){
-    printf("Carta 1 (São Paulo) venceu!\n");
+    printf("Carta 1 (São Paulo) venceu em maior POPULAÇÃO!\n");
   }else {
-    printf("Carta 2 (Rio de janeiro) venceu!\n");
+    printf("Carta 2 (Rio de janeiro) venceu em maior POPULAÇÃO!\n");
   }
 
 
